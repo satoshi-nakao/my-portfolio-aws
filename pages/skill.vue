@@ -1,0 +1,36 @@
+<template>
+<v-row justify="center" align="center">
+    <v-col cols="12" sm="8" md="6">
+    <v-card>
+        <v-card-title>
+            使用言語(学習期間)
+        </v-card-title>
+        <v-card-text>
+　　　　　　<ul>
+            <li>JavaScript:3ヶ月</li>
+            <li>HTML,CSS:4ヶ月</li>
+        </ul>
+        </v-card-text>
+        <v-card-title>
+            フレームワーク(学習期間)
+        </v-card-title>
+        <v-card-text>
+        <ul>
+            <li>Vuejs:3ヶ月</li>
+            <li>Nuxtjs:1ヶ月</li>
+        </ul>
+        </v-card-text>
+        <v-card-title>
+            その他(使用ツール)
+        </v-card-title>
+        <v-card-text>
+        <ul>
+            <li>Git,GitHub⇒ソースコード管理</li>
+            <li>Vuetify⇒UIライブラリ</li>
+            <li>Netlify⇒ポートフォリオサイト公開用</li>
+        </ul>
+        </v-card-text>
+    </v-card>
+    </v-col>
+</v-row>
+</template>

@@ -1,0 +1,43 @@
+<template>
+<v-row  justify="center" align="center">
+    <v-col cols="12" sm="8" md="6">
+    <v-card>
+        <v-card-title>
+            My Credo
+        </v-card-title>
+        <v-card-text>
+            <p>時代や環境の変化に悲観せず、適応し、日々成長して人生を楽しむこと</p>
+　　　　 </v-card-text>
+    </v-card>
+    <v-spacer></v-spacer>
+     <v-card>
+        <v-card-title>
+           簡単なプロフィール紹介
+        </v-card-title>
+        　<v-card-text>
+            <p>大学卒業後、安定を求めて公務員試験浪人の日々を送るも
+                手に職をつけたいという思いから、一念発起して上京し
+                CCNAの資格を取得し、IT業界でキャリアをスタート。
+                現在は、フロントエンド開発を目指して勉強する日々。
+            </p>
+            </v-card-text>
+        <v-card>
+          <v-card-text>
+        　<v-card-title>
+            長所:自己投資を惜しまない
+        　</v-card-title>
+            <p>⇒プログラミング学習のために
+                月１万円支払ってメンターをつける。
+                朝や業務後、土日の勉強会に参加。</p>
+            <v-card-title>
+                短所:ネガティブ
+            </v-card-title>
+            <p>⇒物事を始める前に不安を感じてしまう</p>
+            <p>改善案としては、友達とコミュニケーション
+                とることで別の考え方をもつ。</p>
+            </v-card-text>
+        </v-card>
+    </v-card>
+    </v-col>
+</v-row>
+</template>
