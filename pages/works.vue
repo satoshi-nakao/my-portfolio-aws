@@ -38,12 +38,12 @@ export default {
   data() {
     return {
      products:[
-            // {
-            //  name: 'My-portfolio-site',
-            //  description: '最初に作ったポートフォリオサイト',
-            //  image: '/my-portfolio.icon.jpg',
-            //  url: 'https://satoshi-portfolio-site.netlify.app/'
-            // },
+             {
+              name: 'My-portfolio-site',
+              description: 'Netlifyで公開した最初に作ったポートフォリオサイト',
+              image: '/my-portfolio.icon.jpg',
+              url: 'https://satoshi-nakao-portfolio-site.netlify.app/'
+             },
             // {
             //  name: 'My-portfolio-site2',
             //  description: '二つ目に作ったポートフォリオサイト',
