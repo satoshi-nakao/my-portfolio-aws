@@ -44,12 +44,6 @@ export default {
               image: '/my-portfolio.icon.jpg',
               url: 'https://satoshi-nakao-portfolio-site.netlify.app/'
              },
-            // {
-            //  name: 'My-portfolio-site2',
-            //  description: '二つ目に作ったポートフォリオサイト',
-            //  image: '/my-portfolio.icon2.jpg',
-            //  url: 'https://satoshi-nakao-myportfolio-ver2.netlify.app/'
-            // },
             {
              name: 'My-portfolio-pwa',
              description: 'ポートフォリオサイトをPWA化しました。',
